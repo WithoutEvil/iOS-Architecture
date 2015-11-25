@@ -107,4 +107,5 @@ Now you can import your dependencies e.g.:
 ```
 摘自: https://cocoapods.org/ 中 `GET STARTED`
 
+[我们将`Pods`目录加入版本控制](https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control)
 
