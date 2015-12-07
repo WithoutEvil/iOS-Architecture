@@ -66,7 +66,7 @@ http://roclinux.cn/?p=2129
 
 `checkout submodule project source:`  
 
-1. `git submoule init`: initialize your local configuration file 
+1. `git submodule init`: initialize your local configuration file 
 
 2. `git submodule update`: fetch all the data and check out the appropriate commit listed in your superproject
 
