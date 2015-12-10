@@ -109,3 +109,6 @@ Now you can import your dependencies e.g.:
 
 [我们将`Pods`目录加入版本控制](https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control)
 
+
+
+> **最后我们鼓励使用优秀的第三方开源项目，但如果对第三方开源项目不了解，原理没搞懂，除非是公认的优秀开源项目，否则禁止在项目中使用**
