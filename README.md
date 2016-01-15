@@ -112,3 +112,19 @@ Now you can import your dependencies e.g.:
 
 
 > **最后我们鼓励使用优秀的第三方开源项目，但如果对第三方开源项目不了解，原理没搞懂，除非是公认的优秀开源项目，否则禁止在项目中使用**
+
+###3. Carthage
+引用第三方开源项目的一种方式
+
+[Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency
+manager for Cocoa application.
+
+To integrate `Demo` with Carthage, add this to your `Cartfile`:
+
+```ruby
+git "git@demo.com:iOS/Demo.git" ~> 0.1.2
+```
+
+Run `carthage update` to build the framework and drag the built
+`Demo.framework` into your Xcode project (as well as embed it in your target
+    if necessary).
