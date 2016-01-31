@@ -6,6 +6,7 @@
 * [项目架构(MVC)](#project_architecture)
 * [工具](#tools)
 * [引用第三方开源项目](#quote_third_OSS)
+* [深入研究文档](#deep_research_document)
 
 
 <a name="style_guide"></a>
@@ -128,3 +129,8 @@ git "git@demo.com:iOS/Demo.git" ~> 0.1.2
 Run `carthage update` to build the framework and drag the built
 `Demo.framework` into your Xcode project (as well as embed it in your target
     if necessary).
+
+<a name="deep_research_document"></a>
+## 深入研究文档
+
+> 无论你学习哪些方面的新知识，你真的需要深入学习他们的文档从而以它正确的方式来使用它。人们往往不做功课就过快地或错误地采取某种解决方案，从而陷入非常被动的局面。
